@@ -57,3 +57,9 @@ Scenarios:
 |--------------|-------------------|-------------------|---|---|---|---|---|---|---|
 | > 50         | < 20              | > TTC             |   |   |   |   |   |   |   |
 | < 50         | > 20              | < TTC             |   |   |   |   |   |   |   |
+
+
+Ref:
+https://unece.org/fileadmin/DAM/trans/main/wp29/wp29regs/2020/R152am1e.pdf
+
+https://circabc.europa.eu/sd/a/3ab87fdc-5715-4733-af50-c3608034ca56/report_aebs_en.pdf
