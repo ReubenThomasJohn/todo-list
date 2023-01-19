@@ -4,6 +4,7 @@ const express = require("express");
 const bodyParser = require("body-parser");
 const mongoose = require('mongoose');
 const _ = require('lodash');
+require('dotenv').config();
 
 const app = express();
 
@@ -124,5 +125,5 @@ app.get("/about", function(req, res){
 });
 
 app.listen(process.env.PORT || 3000, function() {
-  console.log("Server started on port 3000");
+  console.log("Server started on port " + process.env.PORT);
 });
