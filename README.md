@@ -53,10 +53,10 @@ shall not be possible with less than two deliberate actions.
 
 Scenarios:
 
-| Ego Velocity | Relative Velocity | Relative Distance |   |   |   |   |   |   |   |
-|--------------|-------------------|-------------------|---|---|---|---|---|---|---|
-| > 50         | < 20              | > TTC             |   |   |   |   |   |   |   |
-| < 50         | > 20              | < TTC             |   |   |   |   |   |   |   |
+| Ego Velocity | Relative Velocity | Relative Distance |
+|--------------|-------------------|-------------------|
+| > 50         | < 20              | > TTC             |   
+| < 50         | > 20              | < TTC             |   
 
 
 Ref:
